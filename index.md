@@ -1,5 +1,5 @@
 
-# Surya
+# Surya Sripathi's First CS 193 Hoemwork
 
 Things I like to do:
 - Play Basketball
